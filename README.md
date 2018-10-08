@@ -5,4 +5,4 @@ Pythonの基本を練習する
 Python2.7.1
 
 # TODO
-[ ] Python3系で動作確認と修正
+- [ ] Python3系で動作確認と修正
