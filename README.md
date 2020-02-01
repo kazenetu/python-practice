@@ -20,6 +20,8 @@ Pythonの基本を練習する
    出力例
 * set
    セット実装例
+* dict
+   辞書実装例
 
 # TODO
 - [X] Python3系で動作確認と修正
