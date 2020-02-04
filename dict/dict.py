@@ -50,12 +50,12 @@ print('20 in dict_a.values() = {0}'.format(20 in dict_a.values()))
 '''
 
 #指定した値が辞書や値にないことを確認
-print("'key1' not in dict_a = {0}".format('key1' not in dict_a))
-print('10 not in dict_a.values() = {0}'.format(10 not in dict_a.values()))
+print("'key100' not in dict_a = {0}".format('key100' not in dict_a))
+print('1000 not in dict_a.values() = {0}'.format(1000 not in dict_a.values()))
 '''
 [出力]
-'key1' not in dict_a = False
-10 not in dict_a.values() = False
+'key100' not in dict_a = True
+1000 not in dict_a.values() = True
 '''
 
 #キーを指定して値を取得
