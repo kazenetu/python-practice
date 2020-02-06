@@ -109,3 +109,30 @@ else:
 1 is b
 ----
 """
+
+# 逆順
+for idx in enumerate(reversed(list)):
+  print("{0}".format(idx))
+else:
+  print("----")
+
+"""
+[出力]
+(0, 'c')
+(1, 'b')
+(2, 'a')
+----
+"""
+
+for i in reversed(list):
+  print("{0}".format(i))
+else:
+  print("----")
+
+"""
+[出力]
+c
+b
+a
+----
+"""
